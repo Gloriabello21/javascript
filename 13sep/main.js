@@ -27,8 +27,7 @@ let width // sin un valor asignado, esta variable es "undefined"
 // undefined suele no usarse, ya que javascrip lo hace
 
 // estructuras de control fijo
-if 
-else if
+
 
 // el if va a ser algo si se cumple la condicion
 // else va a ejecutar algo cuando la condicion de if de falso 
